@@ -9,10 +9,13 @@
 // export default Home
 
 import React from 'react'
-
+import './Home.css'
 const Home = () => {
     return (
-        <div></div>
+        <div className='cont'>
+            <h2>Welcome To Studious</h2>
+            <h5></h5>
+        </div>
     )
 }
 

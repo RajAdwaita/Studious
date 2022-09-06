@@ -20,3 +20,17 @@
 .mint-nft-button {
     background: orange;
 }
+
+.cont {
+    text-align: center;
+    /* margin: 100px; */
+    margin-top: 0;
+    padding: 8px;
+    background-color: rgb(42, 203, 203);
+}
+
+.cont h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
