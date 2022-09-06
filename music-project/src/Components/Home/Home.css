@@ -3,6 +3,10 @@
     margin: 100px;
 }
 
+body {
+    background-color: #333;
+}
+
 .cta-button {
     padding: 15px;
     border: none;
