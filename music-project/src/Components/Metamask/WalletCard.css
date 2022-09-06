@@ -1,0 +1,35 @@
+.walletcard {
+    padding: 15px;
+    float: right;
+    border-radius: 1rem;
+    position: relative;
+    margin-top: 50px;
+    /* margin-left: ; */
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgb(245, 128, 45) 0%, rgb(255, 0, 251) 100%);
+    margin: 2rem;
+}
+
+.btn {
+    background-color: #f500fb;
+    color: white;
+    border: none;
+    border-radius: 1rem;
+    padding: 5px;
+    margin: 2px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #070407;
+    transition: ease-in-out 0.2s;
+    color: white;
+    border: none;
+    border-radius: 1rem;
+    padding: 5px;
+    margin: 2px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+}
