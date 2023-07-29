@@ -28,3 +28,21 @@ The music industry is in a state of flux. The demise of the vinyl disks and the 
 Musicians are struggling to make sense of the mess that is royalty distribution in its present form and find it difficult to keep a fair share of the revenue they generate on existing platforms.
 ## What's next for Studious ⏭️
 Making a mobile app for this current web app.
+
+## Build
+```
+- git clone https://github.com/RajAdwaita/Studious.git
+- cd Studious
+- cd music-project
+- npm install --legacy-peer-deps
+- npm run dev
+```
+
+## Screenshots
+
+<img src="music-project/images/i1.png" alt="" >
+<img src="music-project/images/i2.png" alt="" >
+<img src="music-project/images/i3.png" alt="" >
+<img src="music-project/images/i4.png" alt="" >
+<img src="music-project/images/i5.png" alt="" >
+<img src="music-project/images/i6.png" alt="" >
